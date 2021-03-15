@@ -6,6 +6,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<meta charset="utf-8">
 	<title>Welcome to CodeIgniter</title>
 
+	<h1>Hello</h1>
+
+	<p>Nama : lois yemima sari</p>
+	<p>Nim : E31191447</p>
+	<p>Golongan : MIF C</p>
+
 	<style type="text/css">
 
 	::selection { background-color: #E13300; color: white; }
