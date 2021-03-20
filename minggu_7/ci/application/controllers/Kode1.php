@@ -9,10 +9,10 @@ class Kode1  extends CI_Controller{
     public function hello_cpp(){
         $this->load->view('cppview');
     }
-    public function heloo_java(){
+    public function hello_java(){
         $this->load->view('javaview');
     }
-    public function _remap($var){
+    public function __remap($var){
         if(isset($var)){
             switch (strtolower($var)){
                 case 'python':
