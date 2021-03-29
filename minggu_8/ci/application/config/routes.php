@@ -54,4 +54,4 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['mahasiswa'] = 'Mahasiswa';
-$route['kode/(:any)']='Kode/hello/$1';
+$route['mahasiswa/(:any)']='mahasiswa/$1';
